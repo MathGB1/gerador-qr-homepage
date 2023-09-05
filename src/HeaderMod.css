@@ -1,0 +1,42 @@
+/* CSS for the sticky header */
+.cabecalho {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: #333; /* Background color for the sticky header */
+    color: white; /* Text color */
+    padding: 10px 0; /* Add padding to the top and bottom */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Increased box shadow */
+}
+
+    /* Style for the navigation menu within the sticky header */
+    .cabecalho .cabecalho__menu {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 800px; /* Adjust as needed */
+        margin: 0 auto; /* Center the menu horizontally */
+    }
+
+    /* Style for the menu buttons within the sticky header */
+    .cabecalho .cabecalho__menu__link1,
+    .cabecalho .cabecalho__menu__link2,
+    .cabecalho .cabecalho__menu__link3,
+    .cabecalho .cabecalho__menu__link4 {
+        background-color: transparent;
+        border: none;
+        color: white;
+        cursor: pointer;
+        font-size: 18px;
+        padding: 10px 20px;
+        margin-right: 10px; /* Add some space between buttons */
+        transition: background-color 0.3s ease-in-out;
+    }
+
+        /* Hover effect for the buttons within the sticky header */
+        .cabecalho .cabecalho__menu__link1:hover,
+        .cabecalho .cabecalho__menu__link2:hover,
+        .cabecalho .cabecalho__menu__link3:hover,
+        .cabecalho .cabecalho__menu__link4:hover {
+            background-color: #555; /* Change the background color on hover */
+        }

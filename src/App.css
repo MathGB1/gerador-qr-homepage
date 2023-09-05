@@ -1,0 +1,4 @@
+.App {
+    flex: 1; /* Occupy 1/2 of the available space */
+    background-color: #f7f7f7;
+}

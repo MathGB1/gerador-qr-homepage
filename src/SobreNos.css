@@ -1,0 +1,42 @@
+/* SobreNos.css */
+
+/* Style for the container */
+.sobre_nos {
+    background-color: #fff; /* White background color */
+    padding: 20px; /* Add padding to the container */
+    border-radius: 5px; /* Add a border-radius for rounded corners */
+    display: flex; /* Display children in a row */
+    justify-content: space-between; /* Space content evenly */
+    align-items: center; /* Center vertically */
+    line-height: 2;
+}
+
+    /* Style for the paragraphs */
+    .sobre_nos p {
+        font-size: 18px; /* Adjust font size for paragraphs */
+        text-align: justify; /* Justify text for paragraphs */
+        margin-bottom: 15px; /* Add spacing between paragraphs */
+    }
+
+    /* Style for the image container */
+    .sobre_nos .image-container2 {
+        width: 100%; /* Set a specific width for the image container */
+        padding: 0px 30px;
+    }
+
+    /* Style for the image */
+    .sobre_nos img {
+        max-width: 100%; /* Ensure the image doesn't exceed its container */
+        height: auto; /* Maintain the image's aspect ratio */
+    }
+
+    /* Style for the h1 element */
+    .sobre_nos h1 {
+        font-size: 32px; /* Adjust font size for the heading */
+        text-align: left; /* Align the heading to the left */
+        margin-bottom: 10px; /* Add spacing below the heading */
+    }
+
+    .sobre_nos h1, .sobre_nos p {
+        padding-left: 18px;
+    }

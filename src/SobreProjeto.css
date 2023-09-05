@@ -1,0 +1,43 @@
+/* SobreProjeto.css */
+
+/* Style for the container */
+.sobre_projeto {
+    padding: 20px; /* Add padding to the container */
+    border-radius: 5px; /* Add a border-radius for rounded corners */
+    display: flex; /* Display children in a row */
+    justify-content: space-between; /* Space content evenly */
+    align-items: center; /* Center vertically */
+    line-height: 2;
+}
+.sobre_projeto p {
+    font-size: 18px; /* Adjust font size for paragraphs */
+    text-align: justify; /* Justify text for paragraphs */
+    margin-bottom: 15px; /* Add spacing between paragraphs */
+}
+.sobre_projeto h1{
+    font-size:32px;
+}
+/* Style for the text container */
+.text-container {
+    flex: 3; /* Occupy 50% of the available space */
+    padding-left: 18px;
+    padding-right:100px;
+}
+.image-container {
+    flex: 2; /* Occupy 50% of the available space */
+    display: flex;
+    flex-direction: column; /* Stack images vertically */
+}
+/* SobreProjeto.css */
+.image-1 {
+    width: 165px;
+}
+
+.image-2 {
+    width: 55%;
+    padding-left: 25px;
+}
+.image-3 {
+    width: 70%;
+    padding-left: 0px;
+}

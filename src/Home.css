@@ -1,0 +1,38 @@
+/* Home.css */
+
+/* Style for the container (two columns) */
+.home-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start; /* Align content at the top of the columns */
+}
+
+/* Style for the left column (Home) */
+.home-left {
+    flex: 2; /* Occupy 1/2 of the available space */
+    background-color: #f7f7f7; /* Background color for the left column */
+    padding: 40px; /* Add padding to the left column */
+    text-align: justify; /* Justify text for the left column */
+}
+
+/* Style for the right column (QR code generator) */
+.home-right {
+    flex: 1; /* Occupy 1/2 of the available space */
+    display: flex;
+    justify-content: center; /* Center-align content horizontally */
+    align-items: center; /* Center-align content vertically */
+}
+
+/* Style for the heading */
+.home-heading {
+    font-size: 40px; /* Increase font size for the heading */
+    text-align: justify; /* Justify text for the heading */
+    margin-bottom: 20px; /* Add spacing below the heading */
+}
+
+/* Style for the paragraph text */
+.home-paragraph {
+    font-size: 32px; /* Increase font size for paragraphs */
+    text-align: justify; /* Justify text for paragraphs */
+    margin-bottom: 15px; /* Add spacing between paragraphs */
+}
