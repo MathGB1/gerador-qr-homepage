@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gerador-qr-homepage/static/css/main.a1a09396.css",
-    "main.js": "/gerador-qr-homepage/static/js/main.e2a8facb.js",
+    "main.css": "/gerador-qr-homepage/static/css/main.25c162fd.css",
+    "main.js": "/gerador-qr-homepage/static/js/main.9aa63d8f.js",
     "static/media/image4.png": "/gerador-qr-homepage/static/media/image4.d8b070fbe07e16701221.png",
     "static/media/image7.png": "/gerador-qr-homepage/static/media/image7.87486dcef8524dedbfd5.png",
     "static/media/FSA.jpg": "/gerador-qr-homepage/static/media/FSA.3c9c61875d10ceb58ba5.jpg",
@@ -14,11 +14,11 @@
     "static/media/Projeto3.png": "/gerador-qr-homepage/static/media/Projeto3.59888fca6d3263bd0b50.png",
     "static/media/image1.png": "/gerador-qr-homepage/static/media/image1.6c98fea44d77a10c7a5b.png",
     "index.html": "/gerador-qr-homepage/index.html",
-    "main.a1a09396.css.map": "/gerador-qr-homepage/static/css/main.a1a09396.css.map",
-    "main.e2a8facb.js.map": "/gerador-qr-homepage/static/js/main.e2a8facb.js.map"
+    "main.25c162fd.css.map": "/gerador-qr-homepage/static/css/main.25c162fd.css.map",
+    "main.9aa63d8f.js.map": "/gerador-qr-homepage/static/js/main.9aa63d8f.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1a09396.css",
-    "static/js/main.e2a8facb.js"
+    "static/css/main.25c162fd.css",
+    "static/js/main.9aa63d8f.js"
   ]
 }
