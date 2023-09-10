@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\public",
     "\\src"
   ],
-  "SelectedNode": "\\src\\Diario.css",
+  "SelectedNode": "\\src\\GeradorQR.js",
   "PreviewInSolutionExplorer": false
 }

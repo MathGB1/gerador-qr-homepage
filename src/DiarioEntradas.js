@@ -99,11 +99,16 @@ const DiarioEntradas = [
         extra: "",
     },
     {
-        date: "29/04/2023",
+        date: "05/09/2023",
         information: "Publicar site gerador de QR Codes;",
         extra: (<div>
             <img className="diario-image" src={image8} alt="Image 8" />
         </div>),
+    },
+    {
+        date: "06/09/2023",
+        information: "Desenvolvimento de um design responsivo para mobile;",
+        extra: "",
     },
     // Add more entries as needed
 ];

@@ -36,3 +36,35 @@
     text-align: justify; /* Justify text for paragraphs */
     margin-bottom: 15px; /* Add spacing between paragraphs */
 }
+@media (max-width: 768px) {
+    .home-container {
+        flex-direction: column; /* Stack columns vertically on mobile */
+        align-items: center; /* Center-align columns on mobile */
+    }
+
+    .home-left,
+    .home-right {
+        flex: 1; /* Occupy full width on mobile */
+        text-align: center; /* Center-align text on mobile */
+        padding: 20px; /* Reduce padding on mobile */
+    }
+
+    .home-heading {
+        font-size: 28px; /* Reduce font size for the heading on mobile */
+    }
+
+    .home-paragraph {
+        font-size: 24px; /* Reduce font size for paragraphs on mobile */
+    }
+    .geradorQR {
+        max-width: 80%; /* Adjust the maximum width as needed */
+        height: auto; /* Maintain aspect ratio */
+        margin-left: 60px;
+    }
+    .inputQR {
+        width: 380px;
+    }
+    .botao-download {
+        width: 360px;
+    }
+}

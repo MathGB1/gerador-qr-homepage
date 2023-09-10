@@ -40,3 +40,14 @@
         .cabecalho .cabecalho__menu__link4:hover {
             background-color: #555; /* Change the background color on hover */
         }
+@media (max-width: 768px) {
+    .cabecalho .cabecalho__menu__link1,
+    .cabecalho .cabecalho__menu__link2,
+    .cabecalho .cabecalho__menu__link3,
+    .cabecalho .cabecalho__menu__link4 {
+        font-size: 16px; /* Adjust font size for mobile */
+        padding: 3px 20px; /* Adjust padding for mobile */
+        margin-right: 3px; /* Adjust margin for mobile */
+    }
+    /* CSS for the sticky header */
+}

@@ -40,3 +40,19 @@
     .sobre_nos h1, .sobre_nos p {
         padding-left: 18px;
     }
+@media (max-width: 768px) {
+    .sobre_nos {
+        flex-direction: column; /* Stack content vertically on mobile */
+        align-items: flex-start; /* Align content to the left on mobile */
+    }
+
+        .sobre_nos .image-container2 {
+            padding: 0px; /* Remove padding on mobile */
+            margin-top: 20px; /* Add spacing between text and image on mobile */
+        }
+
+        .sobre_nos img {
+            max-width: 100%; /* Ensure the image doesn't exceed its container on mobile */
+            height: auto; /* Maintain the image's aspect ratio on mobile */
+        }
+}
