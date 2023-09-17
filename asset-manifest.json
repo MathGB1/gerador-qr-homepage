@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gerador-qr-homepage/static/css/main.0126a39c.css",
-    "main.js": "/gerador-qr-homepage/static/js/main.8e0de33a.js",
+    "main.js": "/gerador-qr-homepage/static/js/main.3f474db1.js",
     "static/media/image4.png": "/gerador-qr-homepage/static/media/image4.d8b070fbe07e16701221.png",
     "static/media/image7.png": "/gerador-qr-homepage/static/media/image7.87486dcef8524dedbfd5.png",
     "static/media/FSA.jpg": "/gerador-qr-homepage/static/media/FSA.3c9c61875d10ceb58ba5.jpg",
@@ -15,10 +15,10 @@
     "static/media/image1.png": "/gerador-qr-homepage/static/media/image1.6c98fea44d77a10c7a5b.png",
     "index.html": "/gerador-qr-homepage/index.html",
     "main.0126a39c.css.map": "/gerador-qr-homepage/static/css/main.0126a39c.css.map",
-    "main.8e0de33a.js.map": "/gerador-qr-homepage/static/js/main.8e0de33a.js.map"
+    "main.3f474db1.js.map": "/gerador-qr-homepage/static/js/main.3f474db1.js.map"
   },
   "entrypoints": [
     "static/css/main.0126a39c.css",
-    "static/js/main.8e0de33a.js"
+    "static/js/main.3f474db1.js"
   ]
 }
