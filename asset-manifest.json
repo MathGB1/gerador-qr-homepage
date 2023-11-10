@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/gerador-qr-homepage/static/css/main.e0edfbed.css",
-    "main.js": "/gerador-qr-homepage/static/js/main.e5c83b42.js",
+    "main.js": "/gerador-qr-homepage/static/js/main.ad3857ba.js",
     "static/media/image12.png": "/gerador-qr-homepage/static/media/image12.775b7fd3aa767cb2de8d.png",
     "static/media/AudioAtividadeEmCampo.mp4": "/gerador-qr-homepage/static/media/AudioAtividadeEmCampo.e53ae25b889ebdec1125.mp4",
     "static/media/image4.png": "/gerador-qr-homepage/static/media/image4.d8b070fbe07e16701221.png",
     "static/media/image7.png": "/gerador-qr-homepage/static/media/image7.87486dcef8524dedbfd5.png",
     "static/media/FSA.jpg": "/gerador-qr-homepage/static/media/FSA.3c9c61875d10ceb58ba5.jpg",
+    "static/media/image13.jpg": "/gerador-qr-homepage/static/media/image13.8ad6ff6a8cd8b7f2d462.jpg",
     "static/media/image5.png": "/gerador-qr-homepage/static/media/image5.6183e15851679d9de08b.png",
     "static/media/image2.jpg": "/gerador-qr-homepage/static/media/image2.67035d56326a988148ec.jpg",
     "static/media/image6.jpg": "/gerador-qr-homepage/static/media/image6.be9f59208805a6e59ba3.jpg",
@@ -20,10 +21,10 @@
     "static/media/image1.png": "/gerador-qr-homepage/static/media/image1.6c98fea44d77a10c7a5b.png",
     "index.html": "/gerador-qr-homepage/index.html",
     "main.e0edfbed.css.map": "/gerador-qr-homepage/static/css/main.e0edfbed.css.map",
-    "main.e5c83b42.js.map": "/gerador-qr-homepage/static/js/main.e5c83b42.js.map"
+    "main.ad3857ba.js.map": "/gerador-qr-homepage/static/js/main.ad3857ba.js.map"
   },
   "entrypoints": [
     "static/css/main.e0edfbed.css",
-    "static/js/main.e5c83b42.js"
+    "static/js/main.ad3857ba.js"
   ]
 }
