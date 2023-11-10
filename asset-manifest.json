@@ -1,7 +1,9 @@
 {
   "files": {
-    "main.css": "/gerador-qr-homepage/static/css/main.0126a39c.css",
-    "main.js": "/gerador-qr-homepage/static/js/main.3f474db1.js",
+    "main.css": "/gerador-qr-homepage/static/css/main.e0edfbed.css",
+    "main.js": "/gerador-qr-homepage/static/js/main.e5c83b42.js",
+    "static/media/image12.png": "/gerador-qr-homepage/static/media/image12.775b7fd3aa767cb2de8d.png",
+    "static/media/AudioAtividadeEmCampo.mp4": "/gerador-qr-homepage/static/media/AudioAtividadeEmCampo.e53ae25b889ebdec1125.mp4",
     "static/media/image4.png": "/gerador-qr-homepage/static/media/image4.d8b070fbe07e16701221.png",
     "static/media/image7.png": "/gerador-qr-homepage/static/media/image7.87486dcef8524dedbfd5.png",
     "static/media/FSA.jpg": "/gerador-qr-homepage/static/media/FSA.3c9c61875d10ceb58ba5.jpg",
@@ -10,15 +12,18 @@
     "static/media/image6.jpg": "/gerador-qr-homepage/static/media/image6.be9f59208805a6e59ba3.jpg",
     "static/media/image3.jpg": "/gerador-qr-homepage/static/media/image3.849c27dd35caf23ab2fc.jpg",
     "static/media/Projeto2.png": "/gerador-qr-homepage/static/media/Projeto2.f6b89d232c9bc9f828e5.png",
+    "static/media/image11.jpg": "/gerador-qr-homepage/static/media/image11.2d83fb6d527dcbea1a67.jpg",
     "static/media/image8.png": "/gerador-qr-homepage/static/media/image8.ac3db1494e460779b41c.png",
+    "static/media/image10.png": "/gerador-qr-homepage/static/media/image10.09864fa0a54ab02e1609.png",
+    "static/media/image9.jpg": "/gerador-qr-homepage/static/media/image9.85dc6dc0dbd2b07d7bb3.jpg",
     "static/media/Projeto3.png": "/gerador-qr-homepage/static/media/Projeto3.59888fca6d3263bd0b50.png",
     "static/media/image1.png": "/gerador-qr-homepage/static/media/image1.6c98fea44d77a10c7a5b.png",
     "index.html": "/gerador-qr-homepage/index.html",
-    "main.0126a39c.css.map": "/gerador-qr-homepage/static/css/main.0126a39c.css.map",
-    "main.3f474db1.js.map": "/gerador-qr-homepage/static/js/main.3f474db1.js.map"
+    "main.e0edfbed.css.map": "/gerador-qr-homepage/static/css/main.e0edfbed.css.map",
+    "main.e5c83b42.js.map": "/gerador-qr-homepage/static/js/main.e5c83b42.js.map"
   },
   "entrypoints": [
-    "static/css/main.0126a39c.css",
-    "static/js/main.3f474db1.js"
+    "static/css/main.e0edfbed.css",
+    "static/js/main.e5c83b42.js"
   ]
 }
